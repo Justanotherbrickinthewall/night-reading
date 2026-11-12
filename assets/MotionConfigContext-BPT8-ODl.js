@@ -1,0 +1,1 @@
+import{r as t}from"./vendor-iatO0Ots.js";function u(e){const r=t.useRef(null);return r.current===null&&(r.current=e()),r.current}function c(e,r){if(e?.inherit&&r){const{inherit:o,...n}=e;return{...r,...n}}return e}const i=t.createContext({transformPagePoint:e=>e,isStatic:!1,reducedMotion:"never"});export{i as M,c as r,u};

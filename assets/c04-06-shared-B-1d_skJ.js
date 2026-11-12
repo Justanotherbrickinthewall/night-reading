@@ -1,0 +1,1 @@
+import{r as n}from"./vendor-iatO0Ots.js";function a(r){const e=n.useRef(!1);return n.useCallback(t=>{e.current||(e.current=!0,r?.(t))},[r])}function c(r,e,t){return Math.min(t,Math.max(e,r))}export{c,a as u};
